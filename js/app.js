@@ -272,7 +272,7 @@ const datosBusqueda = {
   marca: marc,
   referencia: "",
   minimo: min,
-  maximo: "",
+  maximo: max,
 }
 
 function mostrarProductos(teclados){
